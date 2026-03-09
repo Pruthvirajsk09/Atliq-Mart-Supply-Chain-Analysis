@@ -106,8 +106,3 @@ Pruthviraj Kadam
 
 Skills: Python, SQL, Power BI, Excel, Data Analysis, Statistics
 
-
-
-
-Skills:
-Python | SQL | Power BI | Excel | Data Analysis
